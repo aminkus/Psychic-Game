@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+body {
+    background-image: url("https://i.pinimg.com/originals/d7/bd/bf/d7bdbf9526e6967af5b40ad11069db82.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: 'Righteous', cursive;
+    color: white;
+}
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe&display=swap');
+h2 {
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+}
